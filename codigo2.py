@@ -1,0 +1,1 @@
+print("Aguante el YOKEI")
